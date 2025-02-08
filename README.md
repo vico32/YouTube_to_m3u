@@ -18,6 +18,7 @@ Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/mai
 
 ### Run the tool on your local machine
 ``` bash
+sudo apt update && sudo apt install curl -y
 git clone https://github.com/vico32/YouTube_to_m3u.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
